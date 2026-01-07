@@ -1,10 +1,8 @@
 # Hi 👋, I'm Auroshish Kumar Meher,
 
-### A Software Engineer or Full Stack Developer who love to explore new technologies and expeirences.....
+### A Software Engineer or Full Stack Developer who love to explore new technologies and expeirences....
 
----
-[![](https://visitcount.itsvg.in/api?id=akmeher03&icon=1&color=2)](https://visitcount.itsvg.in)
-
+  [![](https://visitcount.itsvg.in/api?id=akmeher03&icon=1&color=2)](https://visitcount.itsvg.in)
 
 - 🔭 I'm currently working on **Developing LLM-powered backend solutions, including a Text-to-SQL system achieving 95% query accuracy**
 
@@ -16,11 +14,7 @@
 
 - 💬 Ask me about ****Backend development using Java (Spring Boot) and Python (FastAPI), API performance optimization, caching strategies..**
 
-- 📫 How to reach me **In the given social media platforms**
-
-- ⚡ Fun fact **Will think and write it here**
-
-- 👨‍💻 Want to know more ? Click there ->  **[Portfolio](https://auroshish.netlify.app)**
+- 👨‍💻 Want to know more ?  **[Click Here](https://auroshish.netlify.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
