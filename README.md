@@ -2,7 +2,7 @@
 
 ### A Software Engineer or Full Stack Developer who love to explore new technologies and expeirences....
 
-  [![](https://visitcount.itsvg.in/api?id=akmeher03&icon=1&color=2)](https://visitcount.itsvg.in)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmeher03&label=Profile views&color=0e75b6&style=flat" alt="akmeher03" /> </p>
 
 - 🔭 I'm currently working on **Developing LLM-powered backend solutions, including a Text-to-SQL system achieving 95% query accuracy**
 
