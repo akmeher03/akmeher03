@@ -1,8 +1,6 @@
-# Hi 👋, I'm Auroshish Kumar Meher,
+# Hey 👋, I'm Auroshish Kumar Meher,
 
 ### A Software Engineer or Full Stack Developer who love to explore new technologies and expeirences....
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmeher03&label=Profile views&color=0e75b6&style=flat" alt="akmeher03" /> </p>
   
   ![](https://komarev.com/ghpvc/?username=akmeher03)
 
